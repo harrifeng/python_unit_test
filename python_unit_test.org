@@ -1,0 +1,7 @@
+* Chapter 1 : Testing for Fun and Profit
+** How can testing help?
+   + 有很多的工具可以帮助程序工作的更快更好, 其原理归纳起来就是告诉电脑你希望要什么.
+   + 所谓测试,其实就是你把自己想要的结果先写下来,让电脑去验证. 这样你可以做更有趣的
+     事情,电脑负责其他的
+** Type of testing
+   + 
